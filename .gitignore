@@ -1,0 +1,4 @@
+server/bin
+server/vendor
+server/go.mod
+server/go.sum
